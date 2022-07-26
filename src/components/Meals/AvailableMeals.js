@@ -483,6 +483,27 @@ const DUMMY_MEALS = [
     description: "Drinks",
     price: 9,
   },
+  {
+    id: "m48",
+    name: "Shua Khalakshi (Kobuleti)",
+    img: "https://www.yell.ge/SR_info_img/1814.jpg",
+    address: "139 Agmashenebeli Street",
+    environment: "8",
+    service: "9",
+    description:
+      "Khabab: 9/10 - Pizza: 3/10 - Pork barbecue 5/10 - Veal barbecue 8/10",
+    price: 7,
+  },
+  {
+    id: "m49",
+    name: "Chero (Kobuleti)",
+    img: "https://scontent.ftbs5-3.fna.fbcdn.net/v/t1.6435-9/108016848_3051343408308924_1491782674729214380_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=G_MMsidewW4AX_6DlDb&_nc_ht=scontent.ftbs5-3.fna&oh=00_AT-iqqTcy75GGWY83k8_B3AJaeYdUmAKzkwKDtjH_IOGvA&oe=630393F8",
+    address: "S2, Kobuleti",
+    environment: "9",
+    service: "9",
+    description: "Khachapuri: 8/10 - Khinkali: 8/10 ",
+    price: 9,
+  },
 ];
 
 const AvailableMeals = () => {
